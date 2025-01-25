@@ -2,6 +2,10 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.7.
 
+<!-- link to article -->
+
+This project is part of the article [From Zero to Wow: Building a Beginner-Friendly Angular GPT-Powered App](https://dev.to/this-is-angular/from-zero-to-wow-building-a-beginner-friendly-angular-gpt-powered-app-3n3j-temp-slug-7013164).
+
 ## Development server
 
 To start a local development server, run:
