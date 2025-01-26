@@ -4,7 +4,7 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 <!-- link to article -->
 
-This project is part of the article [From Zero to Wow: Building a Beginner-Friendly Angular GPT-Powered App](https://dev.to/this-is-angular/from-zero-to-wow-building-a-beginner-friendly-angular-gpt-powered-app-3n3j-temp-slug-7013164).
+This project is part of the article [From Zero to Wow: Building a Beginner-Friendly Angular GPT-Powered App](https://dev.to/this-is-angular/from-zero-to-wow-building-a-beginner-friendly-angular-gpt-powered-app-1j1n).
 
 ## Development server
 
